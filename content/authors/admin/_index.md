@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: 'Joba Adisa
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'jaw-bar a-dee-sir'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: 'Joba
+last_name: Adisa
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ✨ 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,66 +23,68 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Human-Centred AI (HAI) Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Stanford University
+    url: https://stanford.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:jobaadisa@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/oluwajobs
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/oluwajobaa/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=22_NqiAAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-1657-2030
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - AI & Emerging Technologies
+  - Data Science
+  - Teacher Learning
+  - Computing Education
+  - AI Education
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Learning Sciences (AI Focus)
+    institution: Clemson University, United States
+    icon: "🐾"
+    date_start: 2020-12-01
+    date_end: 2024-06-15
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Dissertation on _Characterizing youth critical use, examination, and production of machine learning applications. on _Scaling Laws for Neural Language Models_. Supervised by Dr. Golnaz Arastoopour Irgens.
+    
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      text: 'Read Dissertation'
+      url: 'https://open.clemson.edu/all_dissertations/3581/'
+  - area: MEd Educational Technology
+    institution: University of Ibadan, Nigeria
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2016-04-01
+    date_end: 2018-09-04
     summary: |
-      GPA: 4.0/4.0
+      GPA: 6.6/7.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Specialized in Instructional design and machine learning.
+  - area: B.Tech. Physics Education
+    institution: Federal University of Technology Minna, Nigeria
     icon: ""
     date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_end: 2015-02-15
     summary: |
-      GPA: 3.9/4.0
+      GPA: 4.57/5.0
 
-      Minored in Mathematics. President of AI Club.
-
+      Minored in Mathematics. MTN Foundation Alumni.
+### stopped here December 05
 work:
   - position: Senior AI Research Scientist
     company_name: Meta AI
@@ -138,8 +140,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Yoruba
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
