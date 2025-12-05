@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Joba Adisa
+title: "'Joba Adisa"
 
 # Name pronunciation (optional)
 name_pronunciation: 'jaw-bar a-dee-sir'
 
 # Full name (for SEO)
-first_name: Joba
+first_name: "'Joba"
 last_name: Adisa
 
 # Pronouns (optional)
